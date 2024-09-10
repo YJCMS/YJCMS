@@ -1,5 +1,5 @@
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=yjcms&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yjcms&layout=compact)
 <!--
 **YJCMS/YJCMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
